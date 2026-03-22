@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "workwithadam",
+      "runtimeExecutable": "ruby",
+      "runtimeArgs": ["/Users/Pongi/Documents/workwithadam.com/serve.rb"],
+      "port": 3456
+    }
+  ]
+}
